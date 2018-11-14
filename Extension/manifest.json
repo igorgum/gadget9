@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "gadget9",
+  "version": "1.0",
+  "description": "Send emails to the past.",
+  "icons": {
+    "128": "icone.png"
+  },
+  "browser_action":{
+    "default_icon": "icone.png",
+	"default_popup": "popup.html"
+  },
+  "permissions": [
+    "notifications"
+  ],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [{
+    "matches": ["*://mail.google.com/*"],
+    "js": ["jquery-3.3.1.min.js", "date.js", "content.js"]
+  }],
+  "web_accessible_resources": [
+    "icone.png"
+  ]
+}
