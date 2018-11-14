@@ -13,7 +13,7 @@ It's necessary to have the Google Chrome browser installed. You must also have a
 
 ## Installation
 For installing the extension, follow these steps:
-* Download the lastest release [here](https://github.com/igorgum/gadget9/releases/tag/v1.0)
+* Download the lastest release [here](https://github.com/igorgum/gadget9/releases/download/v1.0/Extension.rar)
 * Access the extensions page by pasting this URL on your browser: ```chrome://extensions/```
 * Activate the "Developer mode" at the top right of the page
 * Drag the "Extension" folder and release it inside the extensions page
