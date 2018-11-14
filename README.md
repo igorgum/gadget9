@@ -1,3 +1,4 @@
+![image](img/bg.png)
 
 # Gadget9 Project
 
