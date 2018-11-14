@@ -1,7 +1,7 @@
 
-# Gadget9
+# Gadget9 Project
 
-Based on the "Steins;Gate" series' Gadget #8, the Reading;Steiner Project aims to send emails to the past!
+Based on the "Steins;Gate" series' Gadget #8, the Gadget9 Project aims to send emails to the past!
 **Muahahaha!**
 
 ## How does it work ?
