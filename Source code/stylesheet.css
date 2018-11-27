@@ -1,0 +1,55 @@
+body {
+  margin: 4px;
+  padding: 4px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  width:270px;
+  height:220px;
+  background-image:url('bg.png');
+  background-repeat: repeat;
+}
+
+.centra{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.alinha{
+  text-align: center;
+}
+
+.sombra{
+  text-shadow: 2px 2px black;
+}
+
+.formulario{
+	color: white;
+}
+
+#fundo{
+	opacity: 0.95;
+	background-color: rgba(0, 0, 0, 0.3);
+	margin: 4px;
+	padding: 4px;
+}
+
+#fundo2{
+	opacity: 0.95;
+	background-color: rgba(0, 0, 0, 0.75);
+	margin: 4px;
+	padding: 4px;
+}
+
+.titulo{
+	font-size: 22px;
+}
+
+input{
+	width: 250px;
+}
+
+#submit{
+	width: 262px;
+}
